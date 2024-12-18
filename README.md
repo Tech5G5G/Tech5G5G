@@ -42,6 +42,6 @@
         <img height=45 align="center" src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white" />
     </a>
     <a href="https://swift.org">
-        <img height=45 align="center" src="https://img.shields.io/badge/C++-orange?style=for-the-badge&logo=swift&logoColor=white" />
+        <img height=45 align="center" src="https://img.shields.io/badge/Swift-orange?style=for-the-badge&logo=swift&logoColor=white" />
     </a>
 </div>
