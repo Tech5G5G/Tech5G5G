@@ -18,18 +18,18 @@
 </div>
 
 <div align="center">
-    <h3>My Repos</h3>
+    <h3>Latest and greatest</h3>
     <a href="https://github.com/Tech5G5G/Email-Inboxes">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tech5G5G&repo=Email-Inboxes&theme=transparent&title_color=FF0000&text_color=F46762&icon_color=FF0000" />
     </a>
-    <a href="https://github.com/Tech5G5G/Fluentver">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tech5G5G&repo=Fluentver&theme=transparent&title_color=FF0000&text_color=F46762&icon_color=FF0000" />
+    <a href="https://github.com/Tech5G5G/Clean-Browser">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tech5G5G&repo=Clean-Browser&theme=transparent&title_color=FF0000&text_color=F46762&icon_color=FF0000" />
     </a>
-    <a href="https://github.com/Tech5G5G/Windows-Mobile">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tech5G5G&repo=Windows-Mobile&theme=transparent&title_color=FF0000&text_color=F46762&icon_color=FF0000" />
+    <a href="https://github.com/Tech5G5G/Underwater-Game">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tech5G5G&repo=Underwater-Game&theme=transparent&title_color=FF0000&text_color=F46762&icon_color=FF0000" />
     </a>
-    <a href="https://github.com/Tech5G5G/Windows-Fluent-Theme-for-Discord">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tech5G5G&repo=Windows-Fluent-Theme-for-Discord&theme=transparent&title_color=FF0000&text_color=F46762&icon_color=FF0000" />
+    <a href="https://github.com/Tech5G5G/PixReader">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tech5G5G&repo=PixReader&theme=transparent&title_color=FF0000&text_color=F46762&icon_color=FF0000" />
     </a>
 </div>
 
