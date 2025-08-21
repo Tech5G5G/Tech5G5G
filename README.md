@@ -25,11 +25,11 @@
     <a href="https://github.com/Tech5G5G/Fluentver">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tech5G5G&repo=Fluentver&theme=transparent&title_color=FF0000&text_color=F46762&icon_color=FF0000" />
     </a>
+    <a href="https://github.com/Tech5G5G/Suspension">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tech5G5G&repo=Suspension&theme=transparent&title_color=FF0000&text_color=F46762&icon_color=FF0000" />
+    </a>
     <a href="https://github.com/Tech5G5G/Mica-Visual-Studio">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tech5G5G&repo=Mica-Visual-Studio&theme=transparent&title_color=FF0000&text_color=F46762&icon_color=FF0000" />
-    </a>
-    <a href="https://github.com/Tech5G5G/PixReader">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tech5G5G&repo=PixReader&theme=transparent&title_color=FF0000&text_color=F46762&icon_color=FF0000" />
     </a>
 </div>
 
